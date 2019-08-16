@@ -1,0 +1,15 @@
+﻿[ClientModule1.Malades]
+Visible=False
+
+[ClientModule1.Medecins]
+Visible=False
+
+[ClientModule1.services]
+Visible=False
+
+[ClientModule1.panes]
+Visible=False
+
+[ClientModule1.reparations]
+Visible=False
+
